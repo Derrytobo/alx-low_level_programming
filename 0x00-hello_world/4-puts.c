@@ -6,9 +6,7 @@
  * Return: Always 0 (sucess)
  */
 int main(void)
-{
-	char Test[] = "Programming is like building a multilingual puzzle";
-
-	puts(Test);
+}
+	puts("Programming is like building a multilingual puzzle"\n);
 	return (0);
 }
